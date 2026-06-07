@@ -784,6 +784,7 @@
 * [Erowid](https://www.erowid.org/) or [Shroomery](https://www.shroomery.org/) - Psychoactive Information / Forum
 * [PsychonautWiki](https://psy.st/wiki/Main_Page) - Psychonautics Wiki
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
+* https://theatrecrafts.com/pages/home/topics/ - theatre educational resources
 
 ***
 
